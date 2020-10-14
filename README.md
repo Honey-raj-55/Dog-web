@@ -1,3 +1,3 @@
 # Sample-Responsive-website
-
-This a Responsive Website without Media Queries
+ 
+ --This is a Responsive Website, made without Media Queries.
