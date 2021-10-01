@@ -21,6 +21,7 @@ body {
 img{
     border-radius: 80%;
     height: 375px;
+    border: 3px solid black;
 }
 
 #container {
@@ -39,6 +40,7 @@ button {
     font-size: 14px;
     text-align: center;
     border: 1px solid #2E1263;
+    border-radius: 8px;
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 4px;
@@ -47,9 +49,9 @@ button {
 
 button:hover {
     transition: 0.2s;
-    background-color: aqua;
-    color: #F69680;
-    text-decoration: underline;
+    background-color: rgb(22, 4, 54);
+    border-color:aliceblue ;
+    color: aliceblue;
 }
 
 p {
