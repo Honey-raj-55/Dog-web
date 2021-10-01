@@ -46,7 +46,7 @@ button {
 }
 
 button:hover {
-    transition: 0.8s;
+    transition: 0.2s;
     background-color: aqua;
     color: #F69680;
     text-decoration: underline;
