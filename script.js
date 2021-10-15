@@ -1,10 +1,10 @@
 
 var imgs = [
  
-   "Pets/Dog-1.jpg",
+   "Pets/Dog-4.jpg",
    "Pets/Puppy-2.jpg",
    "Pets/Puppy-3.jpg",
-   "Pets/Dog-4.jpg",
+   "Pets/Dog-1.jpg",
          
 ];
 
