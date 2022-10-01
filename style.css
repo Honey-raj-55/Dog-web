@@ -11,17 +11,24 @@ h1 {
     border-top: 5px solid ;
 }
 
+h2 {
+    text-align: center;
+}
+
 body {
     background-color: aqua ;
     color:#2E1263;
     font-family: "Kufam", cursive;
     font-weight: 200;
+    margin: 0 20px;
 }
 
 img{
     border-radius: 80%;
-    height: 375px;
+    max-height: 375px;
+    height: auto;
     border: 3px solid black;
+    max-width: 100%;
 }
 
 #container {
@@ -52,6 +59,7 @@ button:hover {
     background-color: rgb(22, 4, 54);
     border-color:aliceblue ;
     color: aliceblue;
+    cursor: pointer;
 }
 
 p {
